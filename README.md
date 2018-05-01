@@ -1,2 +1,2 @@
 # ROBOCON-2018
-Robocon is organised by Asia-Pacific Broadcasting Union (ABU). In the competition robots compete to complete a task within a set period of time.
+Robocon is organised by Asia-Pacific Broadcasting Union (ABU). In the competition robots compete to complete a task within a set period of time.According to theme ,We make two robots one is autonomous and second is manual bot.
